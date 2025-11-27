@@ -52,6 +52,7 @@ const Markdown = ({ className }) => {
 
 export default styled(Markdown)`
   * {
+    font-family:  "Just Another Hand", cursive;
     box-sizing: border-box;
   }
   height: calc(100% - 40px);
