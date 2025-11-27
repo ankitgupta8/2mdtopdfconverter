@@ -18,7 +18,7 @@ export default styled(App)`
   width: 100%;
   display: flex;
   flex-direction: column;
-  font-family: 微軟正黑體, sans-serif;
+  font-family:  "Just Another Hand", cursive;
   @media print {
     &,
     div {
