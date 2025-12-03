@@ -52,7 +52,7 @@ const Markdown = ({ className }) => {
 
 export default styled(Markdown)`
   * {
-    font-family:  "Patrick Hand", "Just Another Hand", "Shadows Into Light", serif;
+    font-family:  sans-serif;
     box-sizing: border-box;
       }
   height: calc(100% - 40px);
